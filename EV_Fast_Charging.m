@@ -1,4 +1,3 @@
-%% 220B Final Project
 %% Charging Controller
 
 yalmip('clear')
